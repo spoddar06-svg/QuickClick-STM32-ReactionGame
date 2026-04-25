@@ -6,7 +6,7 @@ Yes, the whole thing. In assembly. Every. Single. Line.
 
 ## Demo
 
-> https://youtube.com/shorts/8Pb5GQ4Sumc?si=hmF1bHdoKzVSK8I_
+[![QuickClick Demo](https://img.youtube.com/vi/8Pb5GQ4Sumc/0.jpg)](https://youtube.com/shorts/8Pb5GQ4Sumc)
 
 ---
 
