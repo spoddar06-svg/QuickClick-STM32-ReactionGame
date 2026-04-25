@@ -1,6 +1,4 @@
 ; ==========================================================
-; FINAL PROJECT: QUICK CLICK -- Reaction Time Trainer
-
 ; DESCRIPTION:
 ;   A reaction-time game written in pure ARM assembly.
 ;   A traffic-light LED sequence (Red -> Yellow -> Green)
