@@ -117,3 +117,5 @@ QuickClick-STM32-ReactionGame/
 ## License
 
 MIT
+
+## Good Luck tryna understand this lol. 💀
