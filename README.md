@@ -2,7 +2,7 @@
 
 A reaction time trainer built entirely in **ARM Thumb Assembly** on the **STM32F401RE NUCLEO** (Cortex-M4). No HAL, no libraries, no mercy — every peripheral is driven by direct register manipulation. 😮‍💨
 
-Yes, the whole thing. In assembly. Every. Single. Line.
+Yes, the whole thing. In assembly. Every. Single. Line. IDK what the point of this was, but hey it's cool though!
 
 ## Demo
 
